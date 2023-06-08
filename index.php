@@ -1,2 +1,2 @@
 <?php
-	echo 'Feature test';
+	echo 'Hello 123';
