@@ -1,2 +1,2 @@
 <?php
-	echo 'Hello 1234 567 Lam';
+	var_dump([1,2,3,4,5]);
